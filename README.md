@@ -1,8 +1,9 @@
 # Laragram
-idem instagram with laravel
+Personal project using MVC patern for a similar Intagram website 
+Refers to "Chart.png" and "homePage.png" for preview.
 
 project using:
-Laravel (auth) , ORM, API, javascript, ajax, bootstrap.
+Laravel (auth) , ORM, API, javascript, ajax, bootstrap, html, php.
 
 fonctionalities:
 - log in and sign up
