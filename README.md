@@ -1,5 +1,6 @@
 Laragram
-Personal project using MVC patern for a similar Intagram website Refers to "Chart.png" and "homePage.png" for preview.
+Personal project using MVC patern for a similar Intagram website.
+Refers to files stating with "Preview" for preview.
 
 project using: Laravel (auth) , ORM, API, javascript, ajax, bootstrap, html, php.
 
